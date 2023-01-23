@@ -1,0 +1,23 @@
+
+/* Header Section */
+
+nav{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* Buttons */
+.ls-bg-primary-btn{
+    color: #FFFFFF;
+    background-color: #B68C5A;
+
+}
+
+.ls-bg-primary-btn:hover{
+    color: #FFFFFF;
+    background-color: #cf954d;
+}
+
+
+
