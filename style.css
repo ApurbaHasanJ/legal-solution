@@ -1,9 +1,14 @@
+/* Fonts */
+.ls-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.ls-eb-garamond{
+    font-family: 'EB Garamond', serif;
+}
 
 /* Header Section */
 
-nav{
-    font-family: 'Poppins', sans-serif;
-}
 
 
 
@@ -19,5 +24,13 @@ nav{
     background-color: #cf954d;
 }
 
+/* banner section */
+/* .ls-banner{
+    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
+}  */
+
+.ls-banner-header{
+    font-size: 5rem;
+}
 
 
