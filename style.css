@@ -24,10 +24,6 @@
     background-color: #cf954d;
 }
 
-/* banner section */
-/* .ls-banner{
-    background: linear-gradient(180deg, #111111 0%, rgba(17, 17, 17, 0) 100%);
-}  */
 
 .ls-banner-header{
     font-size: 5rem;
@@ -40,10 +36,17 @@
 }
 
 
-/* Footer Section */
-ls-input-email{
-    background: url('images/up-right.png');
+/* Media Query */
+@media screen and (max-width:576px) {
+    .banner-items{
+        display: flex;
+        margin: 0;
+        padding: 0;
+    }
 
+    .ls-banner-header{
+     font-size: 1rem;
+    }
+    
 }
-
 
